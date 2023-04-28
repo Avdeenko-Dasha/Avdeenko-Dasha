@@ -1,11 +1,12 @@
 ### Hi I'm Dasha 👋
 
-##Back-end Java developer from Belarus.
+## Back-end Java developer from Belarus.
 
-##Main stack of technologies:Java Core,Spring(Core,Security,Web),HTML,CSS.
-##Database: My SQL
-#Contact with me:
-#-📬 avdeenko.dasha705@gmail.com -📱 Telegram:@Dasha705
+## Main stack of technologies:**Java Core**,**Spring(Core,Security,Web)**,**HTML**,**CSS**.
+## Database: My SQL
+### Contact with me:
+ -📬 avdeenko.dasha705@gmail.com 
+ -📱 Telegram:@Dasha705
 <!--
 **Avdeenko-Dasha/Avdeenko-Dasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
